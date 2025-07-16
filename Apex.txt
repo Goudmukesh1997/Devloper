@@ -4,6 +4,7 @@ Basic Example in Apex Language :
 public class Retro {
     Integer a = 700;
     Integer b = 900;
+Integer c;
     public void add(){
         c = a+b;
         System.debug(c);
