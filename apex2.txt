@@ -1,6 +1,6 @@
 public class Coolie {
     public void add(Integer a , Integer b){
-        integer c = a+b;
+        Integer c = a+b;
         System.debug(c);
     }
 
