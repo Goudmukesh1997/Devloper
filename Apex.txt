@@ -2,12 +2,12 @@ Basic Example in Apex Language :
 
 
 public class Retro {
-    integer a = 700;
-    integer b = 900;
-    integer c;
+    Integer a = 700;
+    Integer b = 900;
+    Integer c;
     public void add(){
         c = a+b;
-        system.debug(c);
+        System.debug(c);
     }
 
 }
